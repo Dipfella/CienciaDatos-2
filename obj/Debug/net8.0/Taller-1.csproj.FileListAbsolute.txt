@@ -1,0 +1,14 @@
+D:\Development\University\Ciencia de Datos\Taller-1\bin\Debug\net8.0\Taller-1.exe
+D:\Development\University\Ciencia de Datos\Taller-1\bin\Debug\net8.0\Taller-1.deps.json
+D:\Development\University\Ciencia de Datos\Taller-1\bin\Debug\net8.0\Taller-1.runtimeconfig.json
+D:\Development\University\Ciencia de Datos\Taller-1\bin\Debug\net8.0\Taller-1.dll
+D:\Development\University\Ciencia de Datos\Taller-1\bin\Debug\net8.0\Taller-1.pdb
+D:\Development\University\Ciencia de Datos\Taller-1\obj\Debug\net8.0\Taller-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\University\Ciencia de Datos\Taller-1\obj\Debug\net8.0\Taller-1.AssemblyInfoInputs.cache
+D:\Development\University\Ciencia de Datos\Taller-1\obj\Debug\net8.0\Taller-1.AssemblyInfo.cs
+D:\Development\University\Ciencia de Datos\Taller-1\obj\Debug\net8.0\Taller-1.csproj.CoreCompileInputs.cache
+D:\Development\University\Ciencia de Datos\Taller-1\obj\Debug\net8.0\Taller-1.dll
+D:\Development\University\Ciencia de Datos\Taller-1\obj\Debug\net8.0\refint\Taller-1.dll
+D:\Development\University\Ciencia de Datos\Taller-1\obj\Debug\net8.0\Taller-1.pdb
+D:\Development\University\Ciencia de Datos\Taller-1\obj\Debug\net8.0\Taller-1.genruntimeconfig.cache
+D:\Development\University\Ciencia de Datos\Taller-1\obj\Debug\net8.0\ref\Taller-1.dll
